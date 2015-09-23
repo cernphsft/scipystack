@@ -1,2 +1,2 @@
-# scipystack
-Installation of the SciPy stack on CC7. 
+# CERN PH-SFT SciPy Stack
+Docker file for a SciPy stack installation on CC7. The base image includes an installation of the Jupyter notebook as well.
